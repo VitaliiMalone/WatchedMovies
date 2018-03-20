@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Watched Movies</string>
+    <string name="add_random_movie">Add random movie</string>
+    <string name="delete_all_movies">Delete all movies</string>
+    <string name="movie_title">Title</string>
+    <string name="movie_genre">Genre</string>
+    <string name="movie_rating">Rating</string>
+    <string name="movie_review">Review</string>
+    <string name="hint_movie_title">Title</string>
+    <string name="hint_movie_genre">Drama, thriller, comedy etc.</string>
+    <string name="hint_movie_review">Your short review</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="error_saving">Error with saving movie</string>
+    <string name="saved">Movie saved</string>
+    <string name="empty_view">You haven\'t added any movies yet</string>
+    <string name="add_a_movie">Add a movie</string>
+    <string name="edit_movie">Edit movie</string>
+    <string name="alert_dialog_discard_message">Discard your changes and quit editing?</string>
+    <string name="keep_editing">Keep editing</string>
+    <string name="discard">Discard</string>
+    <string name="alert_dialog_delete_message">Delete this movie?</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_successful">Movie deleted</string>
+    <string name="delete_error">Error with deleting movie</string>
+    <string name="delete_all_message">Are you sure you want to delete all movies?</string>
+</resources>
